@@ -1,0 +1,37 @@
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+.wrap {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+.yellow {
+	background-color: #fec600;
+	width: 100%;
+	height: 50vh;
+}
+
+.black-white {
+	display: flex;
+}
+
+.white {
+	background-color: #f3f5f4;
+	width: 100%;
+	height: 50vh;
+}
+
+.black {
+	background-color: #272729;
+	width: 100%;
+	height: 50vh;
+}
